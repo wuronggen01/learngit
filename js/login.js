@@ -12,10 +12,10 @@ window.onload = function() {
 				var register = $("#register");												//注册提交按钮
         var have_account = $("#have_account");								//切换登录页面
 				var regUsername = $("#reg_username");								  //注册用户输入框
-        var regPassword = $("#reg_password");
-				var confirmPassword = $("#confirmPassword");
+        var regPassword = $("#reg_password");									//注册密码
+				var confirmPassword = $("#confirmPassword");					//注册确认密码
 			
-			//游客登录
+				//游客登录
         visitor.click(function(){
             window.location = "Onepiece.php";
         })
