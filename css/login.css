@@ -130,6 +130,10 @@ body{
 	cursor:pointer;
 	color:#288bc4;
 	margin-top:15px;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
 }
 
 .pull-left:hover{
