@@ -151,6 +151,10 @@ body{
 	font-weight:400;
 	font-size:18px;
 	color:white;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
 }
 
 .pull-right:hover{
