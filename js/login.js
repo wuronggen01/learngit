@@ -57,7 +57,7 @@ window.onload = function() {
                 if(xhr.readyState==4){
                     if(xhr.status==200){
                         var res = eval("("+xhr.responseText+")");
-												if( res.registerSuccess == true ){
+												if( res.registerSuccess == "true" ){
 													alert("register success!");
 												}
                     }
