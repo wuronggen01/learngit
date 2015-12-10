@@ -6,6 +6,8 @@
 	<title></title>
 </head>
 <body>
+	<div class="content">
+	</div>
 	<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
 	<script type="text/javascript" src="js/onepiece_show.js" ></script>
 </body>
