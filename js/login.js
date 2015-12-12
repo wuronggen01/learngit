@@ -25,6 +25,7 @@ window.onload = function () {
     function onEnterDown(e) {
         var event = e || window.event;
         if (event.keyCode == 13) {
+            alert("Enter success!");
             var usernameVal = username.val();
             var passwordVal = password.val();
             var xhr = createXHR();
