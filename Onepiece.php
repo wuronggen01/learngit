@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Onepiece</title>
-    <link type="text/css" rel="stylesheet" href="css/Onepiece.css" />
-		<script type="text/javascript" src="js/selectivizr.js" ></script>
-    <script type="text/javascript" src="js/jquery-1.11.3.js"></script>
-    <script type="text/javascript" src="js/Onepiece.js"></script>
+    <link type="text/css" rel="stylesheet" href="http://wuronggen.sinaapp.com/css/Onepiece.css" />
+    <script type="text/javascript" src="http://wuronggen.sinaapp.com/js/jquery-1.11.3.js"></script>
+    <script type="text/javascript" src="http://wuronggen.sinaapp.com/js/Onepiece.js"></script>
 </head>
 <body>
     <div id="container" class="container">

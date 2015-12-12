@@ -55,7 +55,7 @@
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
-		<script type="text/javascript" src="js/login.js"></script>
+		<script type="text/javascript" src="http://wuronggen.sinaapp.com/js/jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="http://wuronggen.sinaapp.com/js/login.js"></script>
 </body>
 </html>
