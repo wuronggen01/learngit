@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Login</title>
-    <link type="text/css" rel="stylesheet" href="css/login.css" />
+    <link type="text/css" rel="stylesheet" href="http://wuronggen.sinaapp.com/css/login.css" />
 </head>
 <body class="lcb-login">
 		<div class="lcb-login-main">
